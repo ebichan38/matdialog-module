@@ -16,7 +16,6 @@ import { ModalModule } from './modal/modal.module';
     AppRoutingModule,
     BrowserAnimationsModule,
     MatDialogModule,
-    ModalModule
   ],
   providers: [],
   bootstrap: [AppComponent]
